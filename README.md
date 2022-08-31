@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">Introduction</h1>
-<p align="center">Welcome to my profile; I am Logan, an enthusiastic developer who has had an absolute love and passion for programming since the age of 14; by the age of 21, I had secured my first job in the world of programming by becoming a lecturer teaching full stack web development. Since then, I have done a continued amount to improve my skills by creating a vast number of projects, from websites to Minecraft plugins!</p>
+<p align="center">I'm Logan, an enthusiastic developer who has had a passion for programming since the age of 14. By the age of 21, I had secured my first job in the world of programming by becoming a lecturer teaching full stack web development. Since then, I have done a continuous amount of work to improve my skills by creating a vast number of projects from websites to Minecraft plugins!</p>
 
 ---
 
