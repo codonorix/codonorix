@@ -17,7 +17,3 @@
 
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codonorix&show_icons=true&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codonorix&layout=compact&title_color=C52977&icon_color=C52977&bg_color=270542&text_color=ffffff)
